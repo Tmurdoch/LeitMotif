@@ -1,0 +1,29 @@
+
+
+
+Requirements:
+
+
+read and play audio files
+
+program that transposes audio to correct key
+
+program that asseses the current key of song playing, or finds out somehow what the key is (web scrape?)
+
+program that finds time signature
+
+interface to play any leitmotif in loaded into program
+	must also make sure leitmotif is in time signature
+
+
+
+extra features:
+
+program that finds time signature
+
+
+
+
+
+
+
