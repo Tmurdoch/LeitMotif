@@ -3,14 +3,18 @@
 
 Requirements:
 
+recognizes something is playing, either through microphone, or an integrated spotify web api
+	
+
+format for audio files
 
 read and play audio files
 
-program that transposes audio to correct key
+function that transposes audio to correct key
 
-program that asseses the current key of song playing, or finds out somehow what the key is (web scrape?)
+function that asseses the current key of song playing, or finds out somehow what the key is (web scrape?)
 
-program that finds time signature
+function that finds time signature
 
 interface to play any leitmotif in loaded into program
 	must also make sure leitmotif is in time signature
@@ -25,5 +29,8 @@ program that finds time signature
 
 
 
+plan:
 
+
+once the program knows what song it is use a website like tunebat.com to figure out key
 
