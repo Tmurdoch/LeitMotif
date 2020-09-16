@@ -43,6 +43,18 @@ play leitmotif over song at the right time
 
 profit
 
+implementation:
+
+makefile for keeping things up to date
+
+seperate bash scripts for web functions, pipelined together
+bash script that executes whole program
+bash script to execute spotify requests
+pipe that to
+bash script for web scrapes
+
+
+
 
 
 
