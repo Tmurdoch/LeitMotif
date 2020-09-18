@@ -31,7 +31,8 @@ program that finds time signature
 
 plan:
 
-find out how discord knows what song person is playing
+figure out how to authorize spotify, or get authorization so can access account details
+(specifically what song is playing)
 
 once the program knows what song it is use a website like tunebat.com to figure out key
 
