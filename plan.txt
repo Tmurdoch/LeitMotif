@@ -30,6 +30,7 @@ program that finds time signature
 
 
 plan:
+look into spotipy: might be helpful
 
 figure out how to authorize spotify, or get authorization so can access account details
 (specifically what song is playing)
