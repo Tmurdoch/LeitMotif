@@ -34,6 +34,14 @@ look into spotipy: might be helpful
 
 figure out how to authorize spotify, or get authorization so can access account details
 (specifically what song is playing)
+	need return URL
+	step 1: https://developer.spotify.com/documentation/general/guides/authorization-guide/
+	step 2: https://developer.spotify.com/documentation/web-api/reference/player/get-the-users-currently-playing-track/
+
+
+Client ID a211de10b38d44b1a4874a0d4281a8aa
+Client Secret de03be8b50074a55a92e1d97c68ea498
+
 
 once the program knows what song it is use a website like tunebat.com to figure out key
 
