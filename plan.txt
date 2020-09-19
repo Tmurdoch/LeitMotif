@@ -32,8 +32,11 @@ program that finds time signature
 plan:
 look into spotipy: might be helpful
 
+
+
 figure out how to authorize spotify, or get authorization so can access account details
 (specifically what song is playing)
+	need website
 	need return URL
 	step 1: https://developer.spotify.com/documentation/general/guides/authorization-guide/
 	step 2: https://developer.spotify.com/documentation/web-api/reference/player/get-the-users-currently-playing-track/
