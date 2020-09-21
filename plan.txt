@@ -30,9 +30,10 @@ program that finds time signature
 
 
 plan:
+
 look into spotipy: might be helpful
 
-
+make some stubs / mocks for Web API
 
 figure out how to authorize spotify, or get authorization so can access account details
 (specifically what song is playing)
