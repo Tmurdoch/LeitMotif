@@ -15,4 +15,4 @@ GET https://accounts.spotify.com/authorize?client_id=a211de10b38d44b1a4874a0d428
 
 
 #TODO: cat this to an html file, then open it in a browser, sign in wait for response
-
+#TODO: figure out what to do after recieving token, or after recieving song name and artist
