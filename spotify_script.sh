@@ -1,5 +1,5 @@
 
-#! /bin/bash
+#!/bin/sh
 set -x
 #purpose: call spotify for request (and access to user data) 
 #and get current song name + title, etc.,
@@ -13,6 +13,14 @@ set -x
 
 GET https://accounts.spotify.com/authorize?client_id=a211de10b38d44b1a4874a0d4281a8aa&response_type=code&redirect_uri=my-awesome-app-login://callback&scope=user-read-playback-state
 
+
+export SPOTIPY_CLIENT_ID= 'a211de10b38d44b1a4874a0d4281a8aa'
+export SPOTIPY_CLIENT_SECRET= 'de03be8b50074a55a92e1d97c68ea498'
+export SPOTIPY_REDIRECT_URI= 'http://localhost'
+
+#TODO: run python script
+
+python get_user_playback.py
 
 #TODO: cat this to an html file, then open it in a browser, sign in wait for response
 #TODO: figure out what to do after recieving token, or after recieving song name and artist

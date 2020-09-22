@@ -32,13 +32,13 @@ program that finds time signature
 plan:
 
 look into spotipy: might be helpful
-
+	https://spotipy.readthedocs.io/en/2.16.0/	
 make some stubs / mocks for Web API
 
 figure out how to authorize spotify, or get authorization so can access account details
 (specifically what song is playing)
-	need website
-	need return URL
+	
+	need return URL - doesn't need to be functioning
 	step 1: https://developer.spotify.com/documentation/general/guides/authorization-guide/
 	step 2: https://developer.spotify.com/documentation/web-api/reference/player/get-the-users-currently-playing-track/
 
