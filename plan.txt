@@ -31,6 +31,8 @@ program that finds time signature
 
 plan:
 
+sketch up a storyboard
+
 look into spotipy: might be helpful
 	https://spotipy.readthedocs.io/en/2.16.0/	
 make some stubs / mocks for Web API
@@ -74,3 +76,12 @@ following may work instead of a GET command, use this in sh script (using curl)
 	https://askubuntu.com/questions/299870/http-post-and-get-using-curl-in-linux
 
 
+
+
+
+
+could have:
+	support for windows  + mac
+		could wrap with java
+	an external interface, GUI
+	
