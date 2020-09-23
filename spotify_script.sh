@@ -16,7 +16,7 @@ GET https://accounts.spotify.com/authorize?client_id=a211de10b38d44b1a4874a0d428
 
 export SPOTIPY_CLIENT_ID= 'a211de10b38d44b1a4874a0d4281a8aa'
 export SPOTIPY_CLIENT_SECRET= 'de03be8b50074a55a92e1d97c68ea498'
-export SPOTIPY_REDIRECT_URI= 'http://localhost'
+export SPOTIPY_REDIRECT_URI= 'examplecom'
 
 #TODO: run python script
 
