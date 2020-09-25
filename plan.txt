@@ -76,10 +76,6 @@ following may work instead of a GET command, use this in sh script (using curl)
 	https://askubuntu.com/questions/299870/http-post-and-get-using-curl-in-linux
 
 
-
-
-
-
 could have:
 	support for windows  + mac
 		could wrap with java
